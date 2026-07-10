@@ -36,8 +36,8 @@ The objective of this project was to demonstrate practical financial modelling s
 ## Workbook Structure
 
 - Cover
-- Historical Financials
 - Assumptions
+- Historical Financials
 - Forecast
 - WACC
 - DCF Valuation
